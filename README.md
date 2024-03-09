@@ -5,5 +5,5 @@ Automações em Python que estou criando para me exercitar usando algumas biblio
 <ul>
  <li>PyAutoGUI</li>
  <li>OpenPyXL</li>
- <li>clipboard</li>
+ <li>Clipboard</li>
 </ul>

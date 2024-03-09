@@ -1,3 +1,6 @@
+'''Usando uma automação para abrir um link no linkedin, adicionando uma pessoa e mandando
+   uma mensagem selecionada para fazer conexão com a rede'''
+
 import keyboard
 import pyautogui as py
 import time

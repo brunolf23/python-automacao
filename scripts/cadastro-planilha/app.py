@@ -57,6 +57,4 @@ for linha in tabela.index:
         pyautogui.write(str(tabela.loc[linha, "obs"]))
     pyautogui.press("tab")
     pyautogui.press("enter") # cadastra o produto (botao enviar)
-    # dar scroll de tudo pra cima
-    pyautogui.scroll(5000)
-    # Passo 5: Repetir o processo de cadastro até o fim
+    pyautogui.scroll(5000) # dar scroll de tudo pra cima
